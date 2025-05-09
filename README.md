@@ -2,7 +2,7 @@
 
 ## Configuration
 
-To configure the application, set the necessary environment variables in the `docker-compose.yml` file. You can adjust the following parameters:
+To configure the application, set the necessary environment variables in the `docker-compose.yml` file.
 
 ## Running
 
